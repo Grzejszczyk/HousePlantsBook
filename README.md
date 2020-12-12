@@ -23,14 +23,22 @@ User should separate plantations if they are on separated areas / environment.
 - DateTime for action (if cyclic true -> list of actions)
 - Description of action
 ```
-###### Galery
+- ###### Galery
 ```
 - Table with thumbnails
 - Normal size photo (Name, Description, DateTaime for picture)
 ```
-###### TimeLine for each plant
+- ###### TimeLine for each plant
 ```
 - Actions
 - Photos (thumbnails)
 - Issues, remarks, other observations
 ```
+
+## Technology:
+- ASP.NET (.NET5)
+- Blazor
+- MS SQL
+- Automapper
+- FluentValidation
+- ...
